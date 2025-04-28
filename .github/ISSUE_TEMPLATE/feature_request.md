@@ -1,5 +1,5 @@
 ---
-name: "\ud83c\udf1f Feature Request"
+name: "Feature Request"
 about: Suggest an idea or enhancement for diun-boost
 title: "[Feature Request]: "
 labels: enhancement

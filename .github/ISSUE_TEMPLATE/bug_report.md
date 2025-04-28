@@ -1,5 +1,5 @@
 ---
-name: "\ud83d\udee0\ufe0f Bug Report"
+name: "Bug Report"
 about: Create a bug report to help us improve diun-boost
 title: "[Bug]: "
 labels: bug
