@@ -66,13 +66,9 @@ Tags that don’t follow semantic versioning — like:
 
 ### 🤏 Minimal Setup:
 - Works out of the box using Docker 🐳.
-
 - Supports linux/amd64 and linux/arm64 architectures.
-
 - Small and lightweight image (~50MB) 💾
-
 - No external dependencies required.
-
 - Built using `python:slim` base image with minimal runtime footprint.
 
 ## 🛠️ How to Run
